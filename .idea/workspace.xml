@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf6b51a-0724-489b-8ca5-432261d14fe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yto3elI5O7Xsn8oH8reuUzPWjM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/day11_Scanner" />
+      <recent name="$PROJECT_DIR$/src/day12_javaRecap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WhileLoopPRactice3">
+    <configuration name="Divisibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_Unary_ShorthandOperators.Divisibility" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_Unary_ShorthandOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14_StringClass.StringManipulations" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14_StringClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_JavaRecap.Variable_Practice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_JavaRecap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoopPRactice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_WhileLoop.WhileLoopPRactice3" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_Unary_ShorthandOperators.leapYear" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_Unary_ShorthandOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WhileLoopPRactice3" />
+        <item itemvalue="Application.StringManipulations" />
+        <item itemvalue="Application.Divisibility" />
+        <item itemvalue="Application.leapYear" />
+        <item itemvalue="Application.Variable_Practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf6b51a-0724-489b-8ca5-432261d14fe0" name="Default Changelist" comment="" />
+      <created>1583771053627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583771053627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="23" width="1000" height="822" key="#Project_Structure" timestamp="1583778839305">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="220" y="23" width="1000" height="822" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1583778839305" />
+    <state x="139" y="60" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587533574009">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="139" y="60" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.822@0.23.1440.822" timestamp="1587533574009" />
+    <state width="1068" height="230" key="GridCell.Tab.0.bottom" timestamp="1586722951641">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1068" height="230" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1586722951641" />
+    <state width="1068" height="230" key="GridCell.Tab.0.center" timestamp="1586722951640">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1068" height="230" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1586722951640" />
+    <state width="1068" height="230" key="GridCell.Tab.0.left" timestamp="1586722951640">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1068" height="230" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1586722951640" />
+    <state width="1068" height="230" key="GridCell.Tab.0.right" timestamp="1586722951640">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1068" height="230" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1586722951640" />
+    <state x="160" y="23" key="SettingsEditor" timestamp="1587533469315">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="160" y="23" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1587533469315" />
+    <state x="100" y="123" width="749" height="622" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587533705805">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="100" y="123" width="749" height="622" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1587533705805" />
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1587523495016">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-1920.139.1920.1057@-1920.139.1920.1057" timestamp="1586028320574" />
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1587523495016" />
+    <state x="73" y="23" width="803" height="822" key="find.popup" timestamp="1587533099422">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="73" y="23" width="803" height="822" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1587533099422" />
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1586718815017">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1586718815017" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day16_ForLoop/EnglishAlphabet.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
