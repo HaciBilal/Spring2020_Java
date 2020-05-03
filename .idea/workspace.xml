@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cf6b51a-0724-489b-8ca5-432261d14fe0" name="Default Changelist" comment="" />
+    <list default="true" id="6cf6b51a-0724-489b-8ca5-432261d14fe0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yto3elI5O7Xsn8oH8reuUzPWjM" />
   <component name="ProjectViewState">
@@ -155,15 +160,19 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="100" y="123" width="749" height="622" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.822@0.23.1440.822" timestamp="1587533705805" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1587523495016">
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1587700104231">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-1920.139.1920.1057@-1920.139.1920.1057" timestamp="1586028320574" />
-    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1587523495016" />
+    <state x="399" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1587700104231" />
     <state x="73" y="23" width="803" height="822" key="find.popup" timestamp="1587533099422">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="73" y="23" width="803" height="822" key="find.popup/0.23.1440.822@0.23.1440.822" timestamp="1587533099422" />
+    <state x="0" y="23" key="new project wizard" timestamp="1587700153463">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1587700153463" />
     <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1586718815017">
       <screen x="0" y="23" width="1440" height="822" />
     </state>

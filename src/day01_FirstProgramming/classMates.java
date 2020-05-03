@@ -8,6 +8,6 @@ public class classMates {
         System.out.println("hasan");
         System.out.println("zeynep");
         System.out.println("bahar");
-
+        System.out.println("ahmetsan");
     }
 }
